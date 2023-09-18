@@ -1,0 +1,1 @@
+# syntropy-pubsub-scala
